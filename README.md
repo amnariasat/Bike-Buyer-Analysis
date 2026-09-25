@@ -21,9 +21,3 @@ Analysed 199 customer records to identify patterns in bike purchasing behaviour,
 - Regional distribution: Europe 123, Pacific 76
 - Average income: buyers £48,286, non-buyers £49,043
 - Identified 3 high-priority sales leads — customers under 35 years old, earning over £75,000, who have not purchased a bike
-
-## Files
-- Bike-Buyer-Analysis.xlsx — Complete workbook containing:
-  - bike_buyers: raw data and calculated columns
-  - Dashboard: summary KPIs and comparative charts
-  - Sales Leads: filtered list of potential customers
