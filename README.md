@@ -27,8 +27,3 @@ Analysed 199 customer records to identify patterns in bike purchasing behaviour,
   - bike_buyers: raw data and calculated columns
   - Dashboard: summary KPIs and comparative charts
   - Sales Leads: filtered list of potential customers
-
-## How to Use
-1. Download the Bike-Buyer-Analysis.xlsx file
-2. Open in Microsoft Excel
-3. Navigate between worksheet tabs to view data, calculations, and summaries
